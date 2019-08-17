@@ -1,0 +1,47 @@
+<resources>
+    <!-- MAPA KEY GOOGLE-->
+
+    <string name="app_name">Kachuelo</string>
+    <!-- Arriba settings-->
+    <string name="Salir">Salir</string>
+    <string name="Acerca_de">Acerca de</string>
+    <string name="Configuracion">Configuración</string>
+    <!-- ACTIVIDAD Login-->
+    <string name="title_activity_login">Kachuelo</string>
+    <string name="prompt_usuario">Usuario</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_k_login">Login</string>
+    <!-- Registrarse-->
+    <string name="prompt_nombrecompleto">Nombres y apellidos</string>
+    <string name="prompt_descripcion">Descripcion</string>
+    <!-- TITULO DE ACTIVIDADESS-->
+    <string name="title_activity_MapaEmpleadosCerca">Kachuelo</string>
+    <string name="title_activity_maps">Map</string>
+    <!-- ACTIVIDAD ACERCE DE -->
+    <string name="buildAppKachuelo">
+        "\tKachuelo 1.0\n\tBuild Junio 10,2019."
+    </string>
+    <string name="large_text">
+        "El manual de usuario de la aplicacion esta disponible en pdf.\n\nEn el siguiente link : \n"
+        "https://drive.google.com/open?id=1TeL1SwjOgbSM9q-1yLnQJTPUesZuXnPE\n"
+    </string>
+    <string name="HechoPor">\tJdcasasmoviles\n\tHormiwon280\n\nContacto:\n\tjdcasasmoviles@gmail.com\n\tenzobvl@hotmail.com \n\t995949259\n\t991041050\n\nCopyright (C) 2019 \n\tReservados todos los derecho.</string>
+    <!-- MENSAJE  ACERCA DE -->
+    <string name="mensajeAcercaDe">
+        "Aplicacion:\n\tKachuelo 1.0\n\tBuild Junio ,2019\n\nHecho por:\n\tJdcasasmoviles\n\tHormiwon280\n\nContacto:\n\tjdcasasmoviles@gmail.com\n\tenzobvl@hotmail.com \n\t995949259\n\t991041050\n\nCopyright (C) 2019 \n\tReservados todos los derechos"
+    </string>
+    <!-- Strings mensaje email -->
+    <string name="mail">jdcasasmoviles@gmail.com</string>
+    <string name="subject">AppKachuelo</string>
+    <string name="envio">Este correo es enviado atraves de AppKachuelo</string>
+    <!-- TERMINOS DE USO -->
+    <string name="terminos">
+        Las siguientes son las condiciones que regulan el uso de la información en formato digital y servicios de la app kachuelo  , pone gratuitamente a disposición de los usuarios de internet.\n
+La utilización de la app confiere la condición de usuario y conlleva la aceptación plena y sin reservas de todas y cada una de las Condiciones Generales de Uso, desde el momento mismo del acceso a la app . En consecuencia, el hecho de hacer uso de esta app constituye la aceptación a las presentes condiciones de uso.\n
+La utilización de ciertos servicios ofrecidos a los Usuarios a través de la app  está sometida a condiciones particulares, propias que, según los casos, sustituyen, completan y/o modifican las Condiciones Generales (en adelante las "Condiciones Particulares"), por lo que su uso constituye la aceptación a las condiciones particulares.\n
+Estas condiciones constituyen un acuerdo completo entre el usuario y kachuelo respecto al uso de esta app , y prevalece y reemplaza a otras comunicaciones acuerdos o propuestas verbales o escritas entre el usuario y la página web respecto únicamente del tema en cuestión.\n
+Los desarrolladores se reserva el derecho de modificar los Términos y Condiciones generales de uso del la app en cualquier momento, notificando al usuario la nueva versión con las modificatorias insertas mediante la publicación en la app , presumiéndose la aceptación de estas condiciones, en caso de continuar el usuario con la utilización del servicio.
+    </string>
+</resources>

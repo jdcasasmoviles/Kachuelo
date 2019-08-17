@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DD6F4C</color>
+    <color name="colorPrimaryDark">#EC382B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bgcolor">#FFFFFF</color>
+    <!-- BOTON-->
+    <color name="color1">#FF9800</color>
+    <color name="color2">#e6e20d</color>
+    <item name="color3" type="color">#009688</item>
+
+    <color name="colorTextoResultados">#1c8716</color>
+    <color name="colorCell">#d714191a</color>
+    <item name="blue" type="color">#2196f3</item>
+    <item name="purple" type="color">#9c27b0</item>
+    <item name="green" type="color">#1b5e20</item>
+    <item name="orange" type="color">#ff5722</item>
+    <item name="red" type="color">#f44336</item>
+    <item name="indigo" type="color">#3f51b5</item>
+    <item name="deep_purple" type="color">#673ab7</item>
+    <item name="light_green" type="color">#689f38</item>
+    <item name="teal" type="color">#009688</item>
+    <item name="pink" type="color">#e91e63</item>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "588704162091",
+    "firebase_url": "https://kachuelo-d6c23.firebaseio.com",
+    "project_id": "kachuelo-d6c23",
+    "storage_bucket": "kachuelo-d6c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588704162091:android:1c838c9830d574ce",
+        "android_client_info": {
+          "package_name": "com.jdcasas.kachuelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588704162091-snap0nd3jc33s6j6ma3n7sippr1vh3vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jdcasas.kachuelo",
+            "certificate_hash": "88a6730ef708537e7713f97e443da784075f0282"
+          }
+        },
+        {
+          "client_id": "588704162091-ahhk8oerhu5b60000fgn07p679ok79t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4XMYuCwl6j4636pWyUgQnu3Gc7y_e3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588704162091-ahhk8oerhu5b60000fgn07p679ok79t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
